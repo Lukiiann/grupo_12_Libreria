@@ -19,3 +19,4 @@ Referentes:
 Integrantes del Grupo:
 
 * Alves Oriana: Tengo 23 años. Soy Diseñadora Gráfica y amante de los libros.  
+* Pablo Domañski : tengo 30 años. Soy estudiante de sistemas y trabajo en el departamento de sistemas de Yamaha-motor Argentina.
