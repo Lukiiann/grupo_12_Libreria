@@ -1,0 +1,23 @@
+{
+  "name": "dh-proyecto-final",
+  "version": "1.0.0",
+  "description": "Temática del sitio: Libreria de ficción",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OriAlves/dh-proyectoFinal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OriAlves/dh-proyectoFinal/issues"
+  },
+  "homepage": "https://github.com/OriAlves/dh-proyectoFinal#readme"
+}
